@@ -17,3 +17,12 @@ Image: ![stable diffusion] (stable diffusion/Ice flower 2.jpg)
 Image: ![stable diffusion] (stable diffusion/Ice flower 3.jpg)
 Image: ![stable diffusion] (stable diffusion/Ice flower 4.jpg)
 
+prompt: "Prompt: blue, iridescent ant logo, full shot, 3D photorealistic, simple black background, highly detailed"
+Image: ![stable diffusion] (stable diffusion/insects.jpg)
+Image: ![stable diffusion] (stable diffusion/insects 2.jpg)
+Image: ![stable diffusion] (stable diffusion/insects 3.jpg)
+Image: ![stable diffusion] (stable diffusion/insects 4.jpg)
+Image: ![stable diffusion] (stable diffusion/insects 5.jpg)
+
+
+
